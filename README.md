@@ -64,7 +64,7 @@ This study investigates the role of <span style="color:red; font-weight:bold">BR
 
 Below is a screenshot of the annotated Markdown rendered in a compatible viewer (e.g., VS Code, GitHub, or a Markdown preview extension).
 
-![Markdown Preview](./assets/markdown_preview.png)
+![Markdown Preview](./markdown_preview.png)
 
 ## Output Files
 
